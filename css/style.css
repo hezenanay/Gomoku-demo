@@ -1,0 +1,13 @@
+canvas{
+  display: block;
+  margin:auto;
+  box-shadow: -2px -2px 2px #d0cfdd, 5px 5px 5px #a4bab4;
+}
+
+body{
+  text-align: center;
+}
+button{
+  margin: auto;
+  margin-top: 30px;
+}
